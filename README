@@ -9,11 +9,11 @@ Está dividido en otros directorios que incluyen:
 
 * docs: incluye documentos de notas para la clase.
 
-* src: Incluye los documentos con los que se trabaja durante la clase.
+* src: incluye los documentos con los que se trabaja durante la clase.
 
 * libs: librerias externas que son usadas por programas desarrollados
 
-* results: Incluye documentos de salida.
+* results: incluye documentos de salida.
 
 * test: archivos de pruebas para correr los programas
 
