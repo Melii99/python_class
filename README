@@ -4,6 +4,7 @@
 ### Introducción
 
 Este directorio contiene el material con el que se trabajará en la materia de Python del Semestre2 de la LCG-CCG.
+En este mismo directorio agregaremos los archivos trabajados en la materia de Python del Semestre3 de la LCG-CCG.
 
 Está dividido en otros directorios que incluyen:
 
@@ -16,6 +17,10 @@ Está dividido en otros directorios que incluyen:
 * results: incluye documentos de salida.
 
 * test: archivos de pruebas para correr los programas
+
+* Tareas: contiene las tareas dejadas en clase
+
+* Ejercicios_clase: contiene los ejercicios realizados en clase
 
 
 
